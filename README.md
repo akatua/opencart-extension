@@ -8,8 +8,10 @@ INSTALLATION/SETUP GUIDE:
 2) Login to your admin panel and do the following
 
 	a) Click on Extensions->Payments on the top menu.
+	
+	b) Click on 'Install' on the row containing Akatua, to install extension for the first time.
 
-	b) Click on 'Edit' on the row containing Akatua.
+	c) Click on 'Edit' to configure the extension.
 
 	c) Set 'Status' to 'Enabled', and provide your application credentials (Application ID, Application Secret, etc).
 
